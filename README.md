@@ -1,2 +1,2 @@
 # Prediction-of-teacher-performance
-Evaluation of performance of teachers based on given features
+Build an ML model to evaluate the performance of teachers based on given features
